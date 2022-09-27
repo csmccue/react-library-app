@@ -1,6 +1,5 @@
 import BookList from './components/book/BookList';
 import { Route, Switch } from 'react-router-dom';
-import Book from './components/book/Book';
 import BookDetail from './components/book/BookDetail';
 import NotFound from './components/notfound/NotFound';
 import Home from './components/home/Home';
